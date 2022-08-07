@@ -1,0 +1,17 @@
+.room {
+  height: 100vh;
+}
+
+.light {
+  background-color: white;
+  color: black;
+}
+
+.dark {
+  background-color: black;
+  color: white;
+}
+
+li {
+  list-style-type: none;
+}
